@@ -1,0 +1,33 @@
+# ModelSim / QuestaSim generated files
+work/
+transcript
+vsim.wlf
+modelsim.ini
+*.wlf
+*.log
+*.bak
+*.tmp
+*.jou
+*.cr.mti
+*.mpf.bak
+
+# Quartus generated folders and files
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.smsg
+
+# Large waveform files
+*.vcd
+*.fst
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
